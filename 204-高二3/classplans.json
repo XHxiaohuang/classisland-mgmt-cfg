@@ -1,7 +1,7 @@
 {
-   "Name": "",
-   "TimeLayouts": {},
-   "ClassPlans": {
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {
       "c8a13411-5add-4144-b8fa-8189ed357780": {
       "TimeLayoutId": "349f12fc-e4ae-449e-8751-699a30236ba2",
       "TimeRule": {
@@ -12,7 +12,16 @@
       },
       "Classes": [
         {
-          "SubjectId": "006d9228-9923-4850-9574-bd5b43070f65",
+          "SubjectId": "",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -66,7 +75,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "66d1c380-d292-46e1-86d5-d403e2a4f200",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -75,7 +84,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -93,7 +102,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -111,7 +120,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "e40cc27b-4351-40bc-8c44-bf4d68518a6d",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -147,7 +156,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周一课表",
+      "Name": "周一课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:25:26.7204257+08:00",
@@ -200,7 +209,7 @@
       },
       "Classes": [
         {
-          "SubjectId": "fbe7be8a-70cc-4d29-87fa-506a8844cf82",
+          "SubjectId": "",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -209,25 +218,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -254,7 +245,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "66d1c380-d292-46e1-86d5-d403e2a4f200",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -263,7 +254,25 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -290,6 +299,15 @@
           "IsActive": false
         },
         {
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
           "SubjectId": "f49e6a75-5870-4fd1-b989-150016d0846a",
           "IsChangedClass": false,
           "IsEnabled": true,
@@ -299,7 +317,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "5860d396-4e65-40ed-b404-63afedd2d5fd",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -308,7 +326,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -317,7 +335,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -326,7 +344,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -335,7 +353,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周二课表",
+      "Name": "周二课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:42:05.0299219+08:00",
@@ -388,7 +406,7 @@
       },
       "Classes": [
         {
-          "SubjectId": "006d9228-9923-4850-9574-bd5b43070f65",
+          "SubjectId": "",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -406,7 +424,16 @@
           "IsActive": false
         },
         {
-          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -424,7 +451,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -433,7 +460,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -442,7 +469,25 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -452,24 +497,6 @@
         },
         {
           "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -487,7 +514,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "04f1b548-9492-4cbf-8a6b-b08342cb11c1",
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -496,7 +523,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -505,7 +532,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -514,7 +541,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -523,7 +550,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周三课表",
+      "Name": "周三课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:44:20.7614393+08:00",
@@ -576,7 +603,7 @@
       },
       "Classes": [
         {
-          "SubjectId": "fbe7be8a-70cc-4d29-87fa-506a8844cf82",
+          "SubjectId": "",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -585,7 +612,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -612,7 +639,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -621,7 +648,25 @@
           "IsActive": false
         },
         {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "91a88ebb-8ecb-493e-b09c-e35718f01dce",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -639,15 +684,6 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
@@ -657,7 +693,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -675,7 +711,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "fedbaa2e-e58a-4032-b10f-6da41e611e21",
+          "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -693,7 +729,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -702,7 +738,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -711,7 +747,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周四课表",
+      "Name": "周四课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:44:34.8992472+08:00",
@@ -755,16 +791,16 @@
       "IsActive": false
     },
     "23d6cd91-69b0-4a52-9ef1-5bb793eee8ab": {
-      "TimeLayoutId": "49240a82-259b-4609-8d22-5fbdb4d9e870",
+      "TimeLayoutId": "7e385cc1-fff4-433c-b750-4c07733f4e06",
       "TimeRule": {
-        "WeekDay": 6,
+        "WeekDay": 5,
         "WeekCountDiv": 0,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
       "Classes": [
         {
-          "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
+          "SubjectId": "56fd13cb-7d06-4f1b-a26e-5d6a17cdf51d",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -782,7 +818,52 @@
           "IsActive": false
         },
         {
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "8b3198da-393b-4c39-9f9c-4a6d59025b7d",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
           "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -800,7 +881,34 @@
           "IsActive": false
         },
         {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "f49e6a75-5870-4fd1-b989-150016d0846a",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -809,7 +917,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周六课表",
+      "Name": "周五课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:44:42.9122841+08:00",
@@ -862,6 +970,15 @@
       },
       "Classes": [
         {
+          "SubjectId": "",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
           "SubjectId": "56fd13cb-7d06-4f1b-a26e-5d6a17cdf51d",
           "IsChangedClass": false,
           "IsEnabled": true,
@@ -997,7 +1114,7 @@
           "IsActive": false
         }
       ],
-      "Name": "2024级4班周日课表",
+      "Name": "周日课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:45:26.3665602+08:00",
@@ -1040,33 +1157,15 @@
       },
       "IsActive": false
     },
-    "744c5666-20b7-43e9-9ee2-f99c07617d94": {
-      "TimeLayoutId": "d67a9d03-11f7-4a26-bc04-67d34ecb497b",
+    "898ffbba-cd84-456b-996d-99e44fc18b2b": {
+      "TimeLayoutId": "49240a82-259b-4609-8d22-5fbdb4d9e870",
       "TimeRule": {
-        "WeekDay": 5,
+        "WeekDay": 6,
         "WeekCountDiv": 0,
         "WeekCountDivTotal": 2,
         "IsActive": false
       },
       "Classes": [
-        {
-          "SubjectId": "9875b24c-470d-4195-8a6a-73925ea4808b",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "7b7aea95-30ad-4490-8d98-0c9179c47a10",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
         {
           "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
           "IsChangedClass": false,
@@ -1077,7 +1176,7 @@
           "IsActive": false
         },
         {
-          "SubjectId": "8b3198da-393b-4c39-9f9c-4a6d59025b7d",
+          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
           "IsChangedClass": false,
           "IsEnabled": true,
           "AttachedObjects": {
@@ -1102,72 +1201,9 @@
 
           },
           "IsActive": false
-        },
-        {
-          "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "91a88ebb-8ecb-493e-b09c-e35718f01dce",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "f49e6a75-5870-4fd1-b989-150016d0846a",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
-        },
-        {
-          "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-          "IsChangedClass": false,
-          "IsEnabled": true,
-          "AttachedObjects": {
-
-          },
-          "IsActive": false
         }
       ],
-      "Name": "2024级4班周五课表",
+      "Name": "周六课表",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2025-07-12T21:44:42.9122841+08:00",
