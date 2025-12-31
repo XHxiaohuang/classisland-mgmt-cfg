@@ -2,16 +2,16 @@
     "ServerKind": 0,
     "OrganizationName": "舞钢实验高中信息中心",
     "ClassPlanSource": {
-       "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/{id}/classplans.json",
-        "Version": 6
+       "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/{id}/B-TEST-classplans.json",
+        "Version": 7
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 4
+        "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/B-TEST-timelayouts.json",
+        "Version": 5
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 4
+        "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/B-TEST-subjects.json",
+        "Version": 5
      },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/XHxiaohuang/classisland-mgmt-cfg/master/policy.json",
